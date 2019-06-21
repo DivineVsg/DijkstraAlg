@@ -1,4 +1,8 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  pch.cpp
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  DijkstraAlg.cpp
+d:\downloads\dijkstraalg-master\dijkstraalg-master\consoleapplication1\dijkstraalg.cpp(49): warning C4018: '<': signed/unsigned mismatch
   Driver.cpp
-  ConsoleApplication1.vcxproj -> C:\Users\Divine\source\repos\ConsoleApplication1\Debug\DijkstraAlg.exe
+  FileIO.cpp
+d:\downloads\dijkstraalg-master\dijkstraalg-master\consoleapplication1\fileio.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  ConsoleApplication1.vcxproj -> D:\Downloads\DijkstraAlg-master\DijkstraAlg-master\Debug\DijkstraAlg.exe
